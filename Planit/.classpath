@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/Droid.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/geronimo-osgi-locator-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/javax.ws.rs-api-2.0-m02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/jersey-bundle-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/jersey-servlet-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/libphonenumber-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/maven-invoker-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/org.apache.aries.javax.jax.rs-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/screenshot-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/sikuli-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/sikulixsetup-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssc/Documents/Srinu/Jars and Drivers/All Jar Files/webservices.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

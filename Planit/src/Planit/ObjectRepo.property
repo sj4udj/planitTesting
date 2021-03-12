@@ -1,0 +1,11 @@
+ChromeDriver=C:\\Users\\ssc\\Documents\\Srinu\\Jars and Drivers\\Drivers\\chromedriver_88.exe
+
+Url=http://demowebshop.tricentis.com/
+
+Username=atest@gmail.com  
+
+Password=123456  
+
+UsernameXpath=(//*[contains(@name, 'Email')])[2]
+
+PasswordXapth=(//*[contains(@name, 'Password')]) 
